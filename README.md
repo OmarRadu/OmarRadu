@@ -10,10 +10,6 @@ I'm a **Computer Science graduate** passionate about building Android applicatio
 * 🌱 Learning Jetpack Compose, MVVM, Coroutines, Hilt & Clean Architecture
 * 🎯 Working toward my first Android Developer role
 
-### 🛠️ Tech Stack
-
-**Kotlin • Android Studio • XML • Retrofit • Room • Firebase • Git • GitHub**
-
 ### 📫 Connect with Me
 
 📧 **[omar.ramadan.attia@gmail.com](mailto:omar.ramadan.attia@gmail.com)**
